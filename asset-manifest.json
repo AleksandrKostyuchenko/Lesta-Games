@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Lesta-Games/static/css/main.f855e6bc.css",
+    "main.js": "/Lesta-Games/static/js/main.910cbdec.js",
+    "static/js/453.cec14b64.chunk.js": "/Lesta-Games/static/js/453.cec14b64.chunk.js",
+    "index.html": "/Lesta-Games/index.html",
+    "main.f855e6bc.css.map": "/Lesta-Games/static/css/main.f855e6bc.css.map",
+    "main.910cbdec.js.map": "/Lesta-Games/static/js/main.910cbdec.js.map",
+    "453.cec14b64.chunk.js.map": "/Lesta-Games/static/js/453.cec14b64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.910cbdec.js"
+  ]
+}
